@@ -11,7 +11,7 @@ This is a place to track progress of my Unity learning journey. I won't be makin
 <p align="justify">
 My only previous expirience with Unity amounts to short 2-week uni cource where I began to develop this game as an exam project. So here's where my game stands as of now - at the beginning of my personal learning expirience.
 </p>
-<img src="./assets/image.gif"/>
+<img src="./gifs/v0_demo/v0_demo.gif"/>
 <p align="justify">
 My current goal is to figure out a new level building structure that will be easier to manage ans scale.
 </p>
